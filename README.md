@@ -1,2 +1,4 @@
 # hello-world
-heyo errone
+Hi Everyone, 
+
+This is PC and I like bits.
